@@ -39,7 +39,7 @@ Toto zabezpečuje:
 - Skontroluj Gravity (-9.81 m/s²)
 - Default Layer Collision Matrix (výber physics layers)
 
-## Krok 4: Ověř setup
+## Krok 4: Over setup
 ```bash
 # V terminále (v projekt folderí):
 git status
