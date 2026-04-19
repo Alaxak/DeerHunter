@@ -29,16 +29,8 @@
 
 ### Inštalácia
 ```bash
-# 1. Inštaluj Git LFS
-git lfs install
+Rozbaľ hru cez link https://alaxak.itch.io/deer-hunter
 
-# 2. Klonuj repo
-git clone <repo-url>
-cd DeerHunter
-
-# 3. Otvor v Unity Hub
-# Add → vyber priečinok DeerHunter
-# Engine: Unity 2022.3 LTS
 ```
 
 ### Povinné nastavenia
@@ -72,8 +64,8 @@ Viac detailov: [Setup Guide](Docs/01_Setup.md)
 | **W/A/S/D** | Pohyb |
 | **Mouse** | Rotácia pohľadu |
 | **LMB** | Výstrel |
-| **R** | Krčenie sa |
-| **F** | Flašľa (zoom) |
+| **TAB** | BackPack |
+| **R** | Hodinky |
 
 ---
 
@@ -107,21 +99,6 @@ Buildy sú k dispozícii na:
 | Door Teleportation | ✅ Hotovo |
 | UI & Audio | ✅ Hotovo |
 | Multiplayer | ❌ MOŽNO to pridám |
-
----
-
-## 🤝 Prispievanie
-
-Keď prispievaš:
-1. Vezmi **dev** branch ako base
-2. Vytvor **feat/xyz** branch
-3. Commity podľa konvencie: `feat:`, `fix:`, `docs:`
-4. Otvori **PR** s popisom
-5. Aspoň 1 review + smoke test pred merge-om
-
-Detaily: [Git Workflow](Docs/03_Workflow_Git.md)
-
----
 
 ---
 
