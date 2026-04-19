@@ -1,6 +1,8 @@
 # Builds
 
 Unity build je **platformovo špecifický** a **deterministický** – exportuj z **Windows** pre Windows, z **macOS** pre macOS.
+Build je dostupný na nasledujúcej URL:
+https://alaxak.itch.io/deer-hunter
 
 ## Kde držať buildy
 
