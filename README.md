@@ -49,7 +49,6 @@ Viac detailov: [Setup Guide](Docs/01_Setup.md)
 | [Overview](Docs/00_Overview.md) | Názov, ciele, tech stack |
 | [Setup](Docs/01_Setup.md) | Krok-za-krokom inštalácia |
 | [Project Structure](Docs/02_Project_Structure.md) | Štruktúra priečinkov |
-| [Git Workflow](Docs/03_Workflow_Git.md) | Branching, commits, PR pravidlá |
 | [Builds](Docs/04_Builds.md) | Export a packaging |
 | [Code Overview](CodeDocs/00_Code_Overview.md) | Popis všetkých skriptov |
 | [Key Systems](CodeDocs/01_Key_Systems.md) | Detailný popis systémov |
